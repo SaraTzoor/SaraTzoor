@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraTzoor
-- 👀 I’m interested in Full stack development...
+- 👀 I’m interested in HW & SW development...
 - 🌱 I’m currently learning Full stack development
 - 📫 saratzoor@gmail.com
 
